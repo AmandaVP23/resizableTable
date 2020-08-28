@@ -13,4 +13,4 @@ document.getElementById('table-id')
 ```
 
 # Versions
-1 - basic, script addeds border on hover, blue border, all styles is inside script
+1 - basic, script addeds border on hover, blue border, all styles is inside script, last column has resize too
