@@ -1,6 +1,12 @@
 # resizableTable
 Scripts for a resizable table
 
+# Attention
+## dont forget to put table-layout: fixed; on the table element
+
+# Diferences 
+- ResizableTableSecond - uses MaterialUi table
+- ResizableTableThird - does not uses external library, all with <table>, <thead>,...
 
 # Usage 
 add file .ts to project and call resizableTable(table)
