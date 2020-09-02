@@ -1,0 +1,8 @@
+---> calcular tamanho que um texto vai ocupar
+const canvas = document.createElement('canvas');
+const context = canvas.getContext('2d');
+
+if (context) {
+  context.font = getComputedStyle(document.body).font;
+  console.log(context.measureText(header).width);
+}
